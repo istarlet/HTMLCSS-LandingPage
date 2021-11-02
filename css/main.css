@@ -314,7 +314,7 @@ footer a:hover {
 .social ul li {
     display: inline-block;
 }
-.social ui li a {
+.social ul li a {
     display: block;
     width: 23px;
     height: 23px;
