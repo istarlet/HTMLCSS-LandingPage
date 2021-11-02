@@ -8,7 +8,7 @@ nav { padding: 10px 0; }
 h1, h2, h3, h4, h5, h6 { margin: 0; }
 /***************************************/
 
-.constainer {
+.container {
     margin-top: 0;
     margin-bottom: 0;
     margin-left: auto;
@@ -54,4 +54,26 @@ section {
 .btn-primary {
     color: #fff;
     background-color: #364147;
+}
+.form-control {
+    display: block;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 12px;
+    padding-right: 12px;
+    border-style: 1px solid #a0a0a0;
+    color: #8598a2;
+    line-height: 1.4;
+}
+.text-light {
+    font-size: 30px;
+    color: #a0a0a0;
+}
+.text-secondary {
+    font-size: 30px;
+    color: #faa541;
+}
+.text-primary {
+    font-size: 16px;
+    color: #364147;
 }
