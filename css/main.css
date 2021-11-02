@@ -38,8 +38,8 @@ section {
     justify-content: space-between;
 }
 .btn {
- cursor: auto;
- border-style: none;
+ cursor: pointer;
+ border: 0;
  padding-top: 6px;
  padding-bottom: 6px;
  padding-left: 12px;
